@@ -1,0 +1,86 @@
+# Node.js
+node_modules/
+npm-debug.log
+npm-error.log
+yarn-error.log
+yarn-debug.log
+.npm
+*.tsbuildinfo
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Vite
+dist/
+dist-ssr/
+coverage/
+*.local
+
+# Build outputs
+build/
+out/
+.nuxt
+.next
+*.egg-info/
+dist/
+.parcel-cache
+.cache
+.vuepress/dist
+.serverless/
+.fusebox/
+.dynamodb/
+.tern-port
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# OS
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Misc
+*.log
+*.log.*
+*.pid
+*.pid.lock
+lerna-debug.log*
+
+# Testing
+.nyc_output/
+coverage/
+jest.config.js
+.test.*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Temporary files
+tmp/
+temp/
+*.tmp

@@ -1,0 +1,33 @@
+# Code Owners
+
+This file defines code owners for different parts of the FinEx repository.
+
+## General ownership
+@Kumar-509
+
+## Components
+./FinEx\ -Financial\ Assistant/src/components/Dashboard.tsx @Kumar-509
+./FinEx\ -Financial\ Assistant/src/components/Accounts.tsx @Kumar-509
+./FinEx\ -Financial\ Assistant/src/components/Cards.tsx @Kumar-509
+./FinEx\ -Financial\ Assistant/src/components/Budgets.tsx @Kumar-509
+./FinEx\ -Financial\ Assistant/src/components/Insights.tsx @Kumar-509
+./FinEx\ -Financial\ Assistant/src/components/Transactions.tsx @Kumar-509
+./FinEx\ -Financial\ Assistant/src/components/Wallet.tsx @Kumar-509
+./FinEx\ -Financial\ Assistant/src/components/Profile.tsx @Kumar-509
+./FinEx\ -Financial\ Assistant/src/components/Sidebar.tsx @Kumar-509
+./FinEx\ -Financial\ Assistant/src/components/Topbar.tsx @Kumar-509
+
+## Styles and themes
+./FinEx\ -Financial\ Assistant/src/lib/theme.tsx @Kumar-509
+./FinEx\ -Financial\ Assistant/src/index.css @Kumar-509
+
+## Build configuration
+./FinEx\ -Financial\ Assistant/vite.config.ts @Kumar-509
+./FinEx\ -Financial\ Assistant/tsconfig.json @Kumar-509
+./FinEx\ -Financial\ Assistant/package.json @Kumar-509
+
+## GitHub configuration
+./.github/** @Kumar-509
+
+## Documentation
+*.md @Kumar-509
