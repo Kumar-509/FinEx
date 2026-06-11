@@ -309,7 +309,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-### Made with ❤️ by [Kumar](https://github.com/Kumar-509)
 
 ⭐ If you find this project helpful, please star it on GitHub!
 
